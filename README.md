@@ -1,8 +1,8 @@
  # Olá, sou o Gerson Alves
 
-Gestor de desenvolvimento && Desenvolvedor Sênior Full Stack
+Gestor de desenvolvimento && Tech Lead && Desenvolvedor Sênior Full Stack
 
-<strong>Seja bem-vindo ao meu perfil!!!<strong/>
+<strong>Seja bem-vindo ao meu perfil!<strong/>
 
 <div align="center">
   <a href="https://github.com/gersualves775">
