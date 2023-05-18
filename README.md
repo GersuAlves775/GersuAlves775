@@ -1,6 +1,6 @@
  # Olá, sou o Gerson Alves
 
-Gestor de desenvolvimento && Tech Lead && Desenvolvedor Sênior Full Stack
+Empresário && Gestor de desenvolvimento && Desenvolvedor Sênior Full Stack
 
 <strong>Seja bem-vindo ao meu perfil!<strong/>
 
